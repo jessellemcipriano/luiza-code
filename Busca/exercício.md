@@ -1,0 +1,5 @@
+1. Implemente uma função que executa uma busca linear sobre um array de um tipo complexo também criado por você (por exemplo: classe Livro, classe Produto). A busca deve receber um determinado valor de atributo e utilizar esse valor para realizar a busca. Por exemplo: busca linear sobre um array de Livro e usando o título do livro para realizar a comparação.
+
+2. Implemente uma função que executa uma busca binária sobre um array de um tipo complexo também criado por você (por exemplo: classe Livro, classe Produto). A busca deve receber um determinado valor de atributo e utilizar esse valor para realizar a busca. Por exemplo: busca linear sobre um array de Livro e usando o título do livro para realizar a comparação.
+
+3. Implemente uma função que executa uma busca linear sobre um array de um tipo complexo também criado por você (por exemplo: classe Livro, classe Produto) e que retorna um array na resposta com todos os itens que foram encontrados. Por exemplo: busca sobre um arrau de Livro e usando o autor como o campo de comparação deve retornar todos os livros de um mesmo autor.
